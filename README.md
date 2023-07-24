@@ -6,7 +6,7 @@ Pued3s poner en practica tus habilidades revisando y utilizando el codigo a cont
 
 ## Indice 
 
-* [1. Intro](url)
+* [1. Intro](https://github.com/Montsecast27/clon-de-google/blob/main/README.md#1intro)
 * [2. Demo](url)
 * [3. ¿Que construiras?](url)
 * [4. Objetivos de aprendizaje](url)
